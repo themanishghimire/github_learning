@@ -1,0 +1,29 @@
+git init
+git commit -m 'added some tests'
+
+
+
+MAKING BRANCHES
+create- git branch manish
+show branches- git branch
+
+switching- git checkout sujan
+
+add all file in git- add .
+
+#ignore
+create a file .gitignore
+write abc.txt inside init
+
+#ignore tracked file
+git rm --cached git.txt
+git add .
+
+save text- git add github.text
+git commit -m 'added'
+
+merging in master - git merge manish 
+
+solve conflict- git commit -m 'conflict solved'
+
+
